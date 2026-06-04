@@ -1,6 +1,6 @@
 # Hello, I'm Aishani Shreya
 
-**CS undergrad @ Thapar Institute of Engineering and Technology · CGPA 10**
+**CS undergrad @ Thapar Institute of Engineering and Technology**
 
 I'm passionate about building things at the intersection of ML and real-world impact — from computer vision pipelines to full-stack web apps. Currently exploring deep learning architectures and creative web animations.
 
