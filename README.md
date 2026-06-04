@@ -38,5 +38,5 @@ I'm passionate about building things at the intersection of ML and real-world im
 
 ## 📬 Connect
 
-* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aishani-shreya/)
+* **LinkedIn:** [Aishani Shreya](https://www.linkedin.com/in/aishani-shreya/)
 * **Email:** [aishani1020@gmail.com](mailto:aishani1020@gmail.com)
